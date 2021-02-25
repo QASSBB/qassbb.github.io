@@ -1,7 +1,7 @@
 # 你好 我的網站是 qassbb.github.io
 
 ## 介紹我是誰
-我是wasabi
+我是 qassbb
 
 ## 介紹我的興趣
 我喜歡坐
