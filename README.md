@@ -5,7 +5,7 @@
 
 ## 介紹我的興趣
 我喜歡玩
-![為甚麼跑不出來糙](https://lh3.googleusercontent.com/proxy/-nWW0TjjtFEA1PJMXG6ShDzjCenPuUf22KohUgoJXnNKYGOIZOPa7HNvcA9Oe57sv4FOkBfd6_WRDkFaewMF9Q2q6bMFVFdwLtXtN0SpSLNjQa6HYwu07Q)
+![為甚麼跑不出來糙](https://img.bc3ts.net/image/post/tumb/N45jGgiGGcZ4fy9Zpfcx5Caperm2_1562163658853_eb9a261a-0bab-48d6-976b-9fea97f63ae2.jpg)
 ```C
 #include <stdio.h>
 int main(
