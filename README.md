@@ -4,8 +4,8 @@
 我是銘傳大學資傳系的陳永瀚
 
 ## 介紹我的興趣
-我喜歡玩
-![為甚麼跑不出來糙](https://github.com/QASSBB/qassbb.github.io/blob/gh-pages/800x_100_w-6090d381149a5.jpeg?raw=true)
+我喜歡玩英雄聯盟
+![為甚麼跑不出來](https://github.com/QASSBB/qassbb.github.io/blob/gh-pages/800x_100_w-6090d381149a5.jpeg?raw=true)
 ```C
 #include <stdio.h>
 int main(
