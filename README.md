@@ -5,12 +5,12 @@
 
 ## 介紹我的興趣
 夸寶
-![為甚麼跑不出來](https://github.com/QASSBB/qassbb.github.io/blob/gh-pages/800x_100_w-6090d381149a5.jpeg?raw=true)
+![為甚麼跑不出來](https://github.com/QASSBB/qassbb.github.io/blob/gh-pages/2bEArvu.png)
 ```C
 #include <stdio.h>
 int main(
 {
-  printf("你沙小");
+  printf("阿夸拿菸燙小熊把小熊燙成美洲豹");
 }
 ```
 
